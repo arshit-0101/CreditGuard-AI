@@ -155,11 +155,11 @@ streamlit run app.py
 
 ### Dashboard
 
-![Dashboard](assets/Home page.png)
+![Dashboard](assets/Home%20page.png)
 
 ### Prediction Result
 
-![Prediction](assets/Prediction result.png)
+![Prediction](assets/Prediction%20result.png)
 
 ---
 
